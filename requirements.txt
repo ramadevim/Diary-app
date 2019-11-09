@@ -1,0 +1,2 @@
+Python==3.7
+Djano == 2.2
